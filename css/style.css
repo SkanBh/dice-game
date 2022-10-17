@@ -28,7 +28,7 @@ background: linear-gradient(to right, #190A05, #870000); /* W3C, IE 10+/ Edge, F
 /* LAYOUT */
 main {
   position: relative;
-  width: 101rem;
+  width: 100rem;
   height: 60rem;
   background-color: rgba(255, 255, 255, 0.35);
   backdrop-filter: blur(200px);
